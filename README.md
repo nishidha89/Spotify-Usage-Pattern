@@ -1,4 +1,7 @@
 # Spotify-Usage-Pattern
+Spotify, with over 574 million monthly active users (MAUs) as of Q3 2023, is undoubtedly one of the most popular music streaming apps in the world today. However, despite its huge user base, Spotify has yet to turn a profit, with a net income of around -$576 million in 2023 reportedly. Therefore, we would like to explore ways to increase Spotify's revenue.
+
+According to reports, around 87% of Spotify's revenue is derived from its Premium subscribers. However, as of Q3 2023, Spotify had 361 million ad-supported free MAUs. Converting these users to paid plans presents a significant opportunity for the company.
 # Objective
 To identify the factors impacting subscription decisions and to attract users to transition from free to premium subscriptions. 
 
