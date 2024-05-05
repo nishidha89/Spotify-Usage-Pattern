@@ -29,7 +29,8 @@ To identify the factors impacting subscription decisions and to attract users to
 Link of dataset: https://docs.google.com/spreadsheets/d/1v0ka9VdU1PhwBd0sdxz7L_rdevBxl6jN/edit?usp=sharing&ouid=112124787133562515071&rtpof=true&sd=true
 
 # Suggestions
-Using data which we have, to attract people go from Free plan to Premium plan, we can:
+To attract people to switch from free to premium subscription plan we can:
+
 Promote more relaxation playlists in Spotify advertisement;
 Better promote it in evening/ night hours, while users using app more frequently. Push ad notificiations from app better send in evening hours;
 I think it will be beneficial to promote some 1-3 months no-charge Premium plan subscribtions for those, who uses app for more than a year, so they can really experience the difference;
