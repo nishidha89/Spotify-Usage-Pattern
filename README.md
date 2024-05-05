@@ -1,9 +1,10 @@
 # Spotify-Usage-Pattern
-Spotify, with over 574 million monthly active users (MAUs) as of Q3 2023, is undoubtedly one of the most popular music streaming apps in the world today. However, despite its huge user base, Spotify has yet to turn a profit, with a net income of around -$576 million in 2023 reportedly. Therefore, we would like to explore ways to increase Spotify's revenue.
+With a vast user base exceeding 574 million monthly active users (MAUs) as of Q3 2023, Spotify stands out as one of the most widely used music streaming platforms globally. Despite its substantial user count, the company has yet to achieve profitability, reporting a net income of approximately -$576 million in 2023.
+Reports indicate that a substantial portion, around 87%, of Spotify's revenue stems from its Premium subscribers
+However, as of Q3 2023, the platform counted 361 million MAUs who utilize the ad-supported free tier. Converting these users into paying subscribers represents a significant growth in revenue for the company.
 
-According to reports, around 87% of Spotify's revenue is derived from its Premium subscribers. However, as of Q3 2023, Spotify had 361 million ad-supported free MAUs. Converting these users to paid plans presents a significant opportunity for the company.
 # Objective
-To identify the factors impacting subscription decisions and to attract users to transition from free to premium subscriptions. 
+To find out actionable insights that can facilitate the conversion of these free users into paid subscribers, thereby unlocking significant revenue streams for Spotify.
 
 # The analysis seeks to answer the following questions:
 1. Which age group people mostly use Spotify?
@@ -34,7 +35,8 @@ Link of dataset: https://docs.google.com/spreadsheets/d/1v0ka9VdU1PhwBd0sdxz7L_r
 # Suggestions
 To attract people to switch from free to premium subscription plan we can:
 
-Promote more relaxation playlists in Spotify advertisement;
-Better promote it in evening/ night hours, while users using app more frequently. Push ad notificiations from app better send in evening hours;
-I think it will be beneficial to promote some 1-3 months no-charge Premium plan subscribtions for those, who uses app for more than a year, so they can really experience the difference;
-Make more advertisement of Student and Family plan subscriptions, since most of the dwellers of the local community are young women.
+Highlight the promotion of relaxation-themed playlists in Spotify advertisements, emphasizing their potential to attract users and enhance engagement with the platform.
+It will be benefitial to promote these playlist in evening/ night hours when users use this app more frequently
+Send push notifications from the app during the evening hours for better engagement of users.
+Can propose offering complimentary 1-3 month Premium subscriptions to users with a history of over a year on the app, enabling them to truly appreciate the enhanced features and benefits
+Increase advertising efforts for Student and Family plan subscriptions, as they are favored by the majority of the local community residents, who are predominantly young women.
