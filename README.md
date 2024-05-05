@@ -4,7 +4,7 @@ Reports indicate that a substantial portion, around 87%, of Spotify's revenue st
 However, as of Q3 2023, the platform counted 361 million MAUs who utilize the ad-supported free tier. Converting these users into paying subscribers represents a significant growth in revenue for the company.
 
 # Objective
-To find out actionable insights that can facilitate the conversion of these free users into paid subscribers, thereby unlocking significant revenue streams for Spotify.
+To find out actionable insights that can facilitate the conversion of free users into paid subscribers, thereby unlocking significant revenue streams for Spotify.
 
 # The analysis seeks to answer the following questions:
 1. Which age group people mostly use Spotify?
