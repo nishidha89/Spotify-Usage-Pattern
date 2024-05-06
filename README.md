@@ -35,9 +35,9 @@ Link of dataset: https://docs.google.com/spreadsheets/d/1v0ka9VdU1PhwBd0sdxz7L_r
 # Suggestions
 To attract people to switch from free to premium subscription plan we can:
 
-Highlight the promotion of relaxation-themed playlists in Spotify advertisements, emphasizing their potential to attract users and enhance engagement with the platform.  
-It will be benefitial to promote these playlist in evening/ night hours when users use this app more frequently.    
-Send push notifications from the app during the evening hours for better engagement of users.  
-Can propose offering complimentary 1-3 month Premium subscriptions to users with a history of over a year on the app, enabling them to truly appreciate the enhanced features and benefits.    
-To effectively expand user base beyond females aged 20-35, develop targeted marketing strategies tailored to different demographics.
-Can promote Spotify subscriptions and exclusive content by collaborating with artists,influencers and content creators.Partnership can help to reach a wider audience and can increase the number of subscribers.
+* Highlight the promotion of relaxation-themed playlists in Spotify advertisements, emphasizing their potential to attract users and enhance engagement with the platform.  
+* It will be benefitial to promote these playlist in evening/ night hours when users use this app more frequently.    
+* Send push notifications from the app during the evening hours for better engagement of users.  
+* Can propose offering complimentary 1-3 month Premium subscriptions to users with a history of over a year on the app, enabling them to truly appreciate the enhanced features and benefits.    
+*To effectively expand user base beyond females aged 20-35, develop targeted marketing strategies tailored to different demographics.  
+*Can promote Spotify subscriptions and exclusive content by collaborating with artists,influencers and content creators.Partnership can help to reach a wider audience and can increase the number of subscribers.
