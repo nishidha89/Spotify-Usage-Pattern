@@ -9,26 +9,25 @@ To find out actionable insights that can facilitate the conversion of free users
 # The analysis seeks to answer the following questions:
 1. Which age group people mostly use Spotify?
 2. What is the predominant gender demographic among Spotify users?
-3. Users who prefer for free subscription plan falls under which age group?
-4. How long have the majority of respondents been using Spotify?
-5. What is the preferred listening content of most of the users on Spotify?
-6. What is the favourite music genre for among users?
-7. At which time slot of the day do users prefer to listen music?
-8. What are the primary mood states that influence users' music choices?
-9. What is the preferred activity during which most of the people listen to music?
-10. How do users typically discover new music and broaden their musical horizons?
-11. What is the general preference among users regarding podcasts?
-12. What is the gender demographic of users who rarely prefer podcasts?
-13. What is the prevalent subscription plan among Spotify users?
-14. What is the predominant gender demographic among users opting for the free subscription plan?
-15. What age group predominantly comprises of users who are willing to use premium subscription on Spotify?
-16. How do most users rate their satisfaction with the variety of podcasts available on Spotify?
-17. Which age group rates their satisfaction with the variety of podcasts as "Ok"?
-18. What is the preferred device for listening among users?
-19. What is the most common rating users give for Spotify's music recommendations?
-20. Which music genre is the most popular among users?
-21. During which activities do most users aged 20-35 prefer to listen music?
-22. What are the preferred podcasts for different age groups?
+3. How long have the majority of respondents been using Spotify?
+4. What is the preferred listening content of most of the users on Spotify?
+5. What is the favourite music genre among users?
+6. At which time slot of the day do users prefer to listen music?
+7. What are the primary mood states that influence user's music choices?
+8. What is the preferred activity during which most of the people listen to music?
+9. How do users typically discover new music and broaden their musical horizons?
+10. What is the general preference among users regarding podcasts?
+11. What is the gender demographic of users who rarely prefer podcasts?
+12. What is the prevalent subscription plan among Spotify users?
+13. What is the predominant gender demographic among users opting for the free subscription plan?
+14. What age group predominantly comprises of users who are willing to use premium subscription on Spotify?
+15. How do most users rate their satisfaction with the variety of podcasts available on Spotify?
+16. Which age group rates their satisfaction with the variety of podcasts as "Ok"?
+17. What is the preferred device for listening among users?
+18. What is the most common rating users give for Spotify's music recommendations?
+19. Which music genre is the most popular among users?
+20. During which activities do most users aged 20-35 prefer to listen music?
+21. What are the preferred podcasts for different age groups?
 
 Link of dataset: https://docs.google.com/spreadsheets/d/1v0ka9VdU1PhwBd0sdxz7L_rdevBxl6jN/edit?usp=sharing&ouid=112124787133562515071&rtpof=true&sd=true
 
