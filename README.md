@@ -1,4 +1,4 @@
-# Spotify-Usage-Pattern
+# Spotify-Usage-Pattern-Analysis
 With a vast user base exceeding 574 million monthly active users (MAUs) as of Q3 2023, Spotify stands out as one of the most widely used music streaming platforms globally. Despite its substantial user count, the company has yet to achieve profitability, reporting a net income of approximately -$576 million in 2023.
 Reports indicate that a substantial portion, around 87%, of Spotify's revenue stems from its Premium subscribers
 However, as of Q3 2023, the platform counted 361 million MAUs who utilize the ad-supported free tier. Converting these users into paying subscribers represents a significant growth in revenue for the company.
