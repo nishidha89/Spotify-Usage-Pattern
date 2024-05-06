@@ -31,14 +31,13 @@ To find out actionable insights that can facilitate the conversion of free users
 Link of dataset: https://docs.google.com/spreadsheets/d/1v0ka9VdU1PhwBd0sdxz7L_rdevBxl6jN/edit?usp=sharing&ouid=112124787133562515071&rtpof=true&sd=true
 
 # Conclusions:
-* Most of the users are females.  
+* Most of the Spotify users are females.  
 * 20-35 is the age group which uses Spotify more and among them females are more.  
 * A majority of respondents have been using Spotify for over 2 years.  
 * Most of the users prefer free ad supported plan over premium plans and most of the premium users are females.  
 * Most of the users like to listen music at night and Melody is the favourite music genre among users.    
 * Relaxation and stress relief are the main moods that influence users' choice of music. 
 * Mostly people likes to listen music while travelling.  
-* Most of the users prefer free ad supported plan than premium plans and premium users are more of females.  
 * 20-25 age group users uses more of premium subscription plan.  
 * Pod casts are rarely preferred by users and most of the users gives satisfaction rating as Ok for Podcasts.  
 * Most of the users give 3 as a rating for Spotify music recommendations.  
@@ -48,7 +47,7 @@ To attract people to switch from free to premium subscription plan we can:
 
 * Highlight the promotion of relaxation-themed playlists in Spotify advertisements, emphasizing their potential to attract users and enhance engagement with the platform.  
 * It will be benefitial to promote these playlist in evening/ night hours when users use this app more frequently.    
-* Send push notifications from the app during the evening hours for better engagement of users.  
-* Can propose offering complimentary 1-3 month Premium subscriptions to users with a history of over a year on the app, enabling them to truly appreciate the enhanced features and benefits.    
+* Send push notifications from the app during the evening hours for better engagement of users with app.  
+* Can propose offering complimentary 1-3 month Premium subscriptions to users with a history of over a year on the app, enabling them to truly appreciate the enhanced features and benefits of premium subscription.    
 * To effectively expand user base beyond females aged 20-35, develop targeted marketing strategies tailored to different demographics.  
 * Can promote Spotify subscriptions and exclusive content by collaborating with artists,influencers and content creators.Partnership can help to reach a wider audience and can increase the number of subscribers.
